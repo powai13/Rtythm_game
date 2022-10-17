@@ -1,2 +1,2 @@
 # Rtythm_game
-ピアノ、楽譜、音ゲー
+Piano　Musical score
